@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalyan-Kale
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend
+- 🌱 I have completed with frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Insta, Github, Linkdin, Whatsapp (+91 8669814518), Mail : kalyankale21@gmail.com
 
